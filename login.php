@@ -11,7 +11,7 @@ session_destroy();
 <style>
 body{
 	
-	background-image:url("diva2.jpg") ;
+	background-image:url("bg.jpg") ;
 	background-repeat: no-repeat ;
 	background-attachment: fixed;
     
